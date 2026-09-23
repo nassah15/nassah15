@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Hassan
 
-<!--
-**nassah15/nassah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Civil Engineering graduate transitioning into software engineering.
 
-Here are some ideas to get you started:
+I've been building projects to strengthen my understanding of computer systems and software engineering fundamentals. My recent work includes a Git-inspired version control system, a Unix-style shell, and an HTTP server written in C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently continuing to develop my programming and computer science fundamentals through project-based learning.
+
+Projects
+mygit
+
+A small Git-inspired version control system written in C, implementing content-addressed object storage, staging, trees, commits, SHA-1 hashing, and zlib compression.
+
+myshell
+
+A minimal Unix-style shell written in C, implementing command parsing, process creation, program execution, and built-in commands using POSIX system calls.
+
+http-server-c
+
+A basic HTTP/1.1 server written in C using POSIX sockets, built to explore TCP networking and the HTTP request-response cycle.
+
+Currently
+Developing my software engineering and computer science fundamentals
+Learning through hands-on projects
+Exploring systems, backend, and other areas of software engineering
