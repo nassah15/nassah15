@@ -1,10 +1,8 @@
 # Hi, I'm Hassan
 
-I'm a recent Civil Engineering graduate transitioning into software engineering.
+I'm a Civil Engineering graduate transitioning into software engineering.
 
-I've been building projects to strengthen my understanding of computer systems and software engineering fundamentals. My recent work includes a Git-inspired version control system, a Unix-style shell, and an HTTP server written in C.
-
-I'm currently continuing to develop my programming and computer science fundamentals through project-based learning.
+I'm developing my software engineering and computer science fundamentals through hands-on projects, using each project as an opportunity to understand new technologies and concepts in practice.
 
 ## Projects
 
@@ -16,9 +14,3 @@ A minimal Unix-style shell written in C, implementing command parsing, process c
 
 ### [http-server-c](https://github.com/nassah15/http-server-c)
 A basic HTTP/1.1 server written in C using POSIX sockets, built to explore TCP networking and the HTTP request-response cycle.
-
-## Currently
-
-- Developing my software engineering and computer science fundamentals
-- Learning through hands-on projects
-- Exploring systems, backend, and other areas of software engineering
